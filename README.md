@@ -32,11 +32,4 @@ To modify prompts:
 2. Commit and push to the main branch
 3. The webhook will automatically refresh the prompts in the application
 
-## Agent Configuration
 
-The prompts are used by the AI agents as defined in `resslbackend/ai/config.py`:
-
-- Analysis Agent: Uses `analysis.prompt`
-- Execution Agent: Uses `execution.prompt`  
-- Planning Agent: Uses `planning.prompt`
-- Process Flow Agent: Uses `process_flow.prompt`
