@@ -1,4 +1,4 @@
-# Prompts
+# Prompts repo
 
 This repository contains the system prompts used by the Ressl AI agents. These prompts are fetched dynamically from GitHub and cached in the application.
 
