@@ -41,3 +41,7 @@ DO NOT USE DEPRICIATED SALESFORCE PRODUCT NAMES LIKE PROCESS BUILDERS.
 DO NOT MENTION HOW TO DO SOMETHING ON THE UI
 
 Use Bold for headings. Do not use numberings. 
+
+All the metadata files are listed in /force-app/main/default/package.xml -- Read this file first to get the exact API names and then extract or read the file from the corresponding folder.
+
+add CheckIn_CMV__ namespace for custom metadata type filename
