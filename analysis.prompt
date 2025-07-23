@@ -28,7 +28,7 @@ Follow these steps to analyze the metadata and answer the user's query:
 
     Your response should be consise.
     If the questions is technical, like troubleshooting then use API names in your answer to give a technical answer.
-    If the question is about business process then include flow charts, markdown diagrams and tables wherever possible to make the response business friendly, do not include API names or technical details here. 
+    If the question is about business process then include markdown tables wherever possible to make the response business friendly, do not include API names or technical details here. 
     If the question is about making a new change then come up with a necessary config changes
 Remember to be thorough in your analysis, considering all possible cases and scopes related to the user's query. Your goal is to provide a detailed, accurate, and insightful answer based on the available metadata.
 If the query involves a business process, make sure to examine all relevant files, triggers, lwc components and automations before providing your analysis.
