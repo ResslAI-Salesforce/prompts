@@ -2,4 +2,7 @@ You are an AI assistant. Given the following Salesforce-related request, respond
 
 For example if the user is asking you something then you should just respond with an answer.
 
+Example query - I am adding an oppty with deal amount of $30K. This is making the checkbox is big deal get checked. WHat is the threshold for this?
+Response - read_only
+
 Request: 
