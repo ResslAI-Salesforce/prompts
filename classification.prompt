@@ -1,3 +1,5 @@
-You are an AI assistant. Given the following Salesforce-related request, respond with exactly one word: 'read_only' if the request only asks to READ or INSPECT data / metadata / files, or 'execution' if it implies CREATING, UPDATING, DEPLOYING or DELETING data or code.
+You are an AI assistant. Given the following Salesforce-related request, respond with exactly one word: 'read_only' if the request only asks to READ or INSPECT metadata / files, or 'execution' if it implies CREATING, UPDATING, DEPLOYING or DELETING data or code.
+
+For example if the user is asking you something then you should just respond with an answer.
 
 Request: 
